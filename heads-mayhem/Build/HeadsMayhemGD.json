@@ -1,0 +1,13 @@
+{
+"companyName": "1st Game Studio",
+"productName": "Heads Mayhem",
+"dataUrl": "HeadsMayhemGD.data.unityweb",
+"wasmCodeUrl": "HeadsMayhemGD.wasm.code.unityweb",
+"wasmFrameworkUrl": "HeadsMayhemGD.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "HeadsMayhemGD.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
